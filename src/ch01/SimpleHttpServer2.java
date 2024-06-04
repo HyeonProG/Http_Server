@@ -22,6 +22,7 @@ public class SimpleHttpServer2 {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	
 
 	} // end of main
 
